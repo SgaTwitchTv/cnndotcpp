@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cnnc/cnnc.vcxproj" Id="ba94944b-c746-46a1-bd26-12244403ea66" />
+</Solution>
